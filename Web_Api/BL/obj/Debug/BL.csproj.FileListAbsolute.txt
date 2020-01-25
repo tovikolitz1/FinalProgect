@@ -1,0 +1,58 @@
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\BL\bin\Debug\BL.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\BL\bin\Debug\BL.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\BL\bin\Debug\BL.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\BL\bin\Debug\DAL.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\BL\bin\Debug\DAL.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\BL\bin\Debug\DAL.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\BL\bin\Debug\EntityFramework.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\BL\obj\Debug\BL.csproj.CopyComplete
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\BL\obj\Debug\BL.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\BL\obj\Debug\BL.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\BL\bin\Debug\EntityFramework.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\BL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\BL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\BL\bin\Debug\BL.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\BL\bin\Debug\BL.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\BL\bin\Debug\BL.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\BL\bin\Debug\DAL.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\BL\bin\Debug\EntityFramework.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\BL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\BL\bin\Debug\DAL.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\BL\bin\Debug\DAL.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\BL\bin\Debug\EntityFramework.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\BL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\BL\obj\Debug\BL.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\BL\obj\Debug\BL.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\BL\bin\Debug\BL.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\BL\bin\Debug\BL.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\BL\bin\Debug\BL.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\BL\bin\Debug\DAL.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\BL\bin\Debug\EntityFramework.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\BL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\BL\bin\Debug\DAL.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\BL\bin\Debug\DAL.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\BL\bin\Debug\EntityFramework.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\BL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\BL\obj\Debug\BL.csproj.CopyComplete
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\BL\obj\Debug\BL.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\BL\obj\Debug\BL.pdb
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\BL\bin\Debug\BL.dll.config
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\BL\bin\Debug\BL.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\BL\bin\Debug\BL.pdb
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\BL\bin\Debug\DAL.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\BL\bin\Debug\EntityFramework.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\BL\bin\Debug\DAL.pdb
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\BL\bin\Debug\DAL.dll.config
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\BL\bin\Debug\EntityFramework.xml
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\BL\obj\Debug\BL.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\BL\obj\Debug\BL.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="493e8ce75b614aa2b8d128dbee7a1bcf" Name="Diagram1">
+        <EntityTypeShape EntityType="Model.CardTbl" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.ProfilsTbl" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.sysdiagram" Width="1.5" PointX="7.875" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.TransitTbl" Width="1.5" PointX="3.125" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.TravelsTbl" Width="1.75" PointX="5.5" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.UserTbl" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="Model.FK_TransitTbl_CardTbl" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_UserTbl_ProfilsTbl" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_TravelsTbl_TransitTbl" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_TravelsTbl_UserTbl" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

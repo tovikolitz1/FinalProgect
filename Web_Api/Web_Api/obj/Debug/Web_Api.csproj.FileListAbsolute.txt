@@ -1,0 +1,286 @@
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\csc.exe
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\csc.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\csc.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\csi.exe
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\csi.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\System.AppContext.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\System.Collections.Immutable.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\System.Reflection.Metadata.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\vbc.exe
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\vbc.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\vbc.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Web_Api.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Web_Api.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Web_Api.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\BL.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Microsoft.Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Newtonsoft.Json.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Net.Http.Formatting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Cors.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Http.Cors.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Http.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Http.Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Http.WebHost.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\DAL.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\EntityFramework.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\BL.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\BL.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Microsoft.Owin.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Net.Http.Formatting.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Http.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Http.Cors.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Http.Owin.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Newtonsoft.Json.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Http.WebHost.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\DAL.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\DAL.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\EntityFramework.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\obj\Debug\Web_Api.csproj.CoreCompileInputs.cache
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\obj\Debug\Web_Api.csproj.CopyComplete
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\obj\Debug\Web_Api.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\obj\Debug\Web_Api.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Microsoft.Web.Infrastructure.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Unity.Abstractions.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Unity.AspNet.WebApi.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Unity.Container.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\WebActivatorEx.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Unity.Abstractions.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Unity.AspNet.WebApi.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Unity.Container.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\EntityFramework.SqlServer.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\EntityFramework.SqlServer.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\obj\Debug\Web_Api.csprojResolveAssemblyReference.cache
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\obj\Debug\Web_Api.csprojResolveAssemblyReference.cache
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\obj\Debug\Web_Api.csproj.CoreCompileInputs.cache
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\csc.exe
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\csc.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\csc.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\csi.exe
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\csi.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\System.AppContext.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\System.Collections.Immutable.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\System.Reflection.Metadata.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\vbc.exe
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\vbc.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\vbc.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Web_Api.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Web_Api.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Web_Api.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\BL.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\DAL.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\EntityFramework.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\EntityFramework.SqlServer.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Microsoft.Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Microsoft.Web.Infrastructure.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Newtonsoft.Json.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\System.Net.Http.Formatting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\System.Web.Cors.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\System.Web.Http.Cors.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\System.Web.Http.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\System.Web.Http.Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\System.Web.Http.WebHost.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Unity.Abstractions.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Unity.AspNet.WebApi.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Unity.Container.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\WebActivatorEx.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\DAL.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\DAL.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\BL.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\BL.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\EntityFramework.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\EntityFramework.SqlServer.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Microsoft.Owin.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\System.Net.Http.Formatting.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\System.Web.Http.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\System.Web.Http.Cors.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\System.Web.Http.Owin.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\System.Web.Http.WebHost.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Unity.Abstractions.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Unity.AspNet.WebApi.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Unity.Container.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\bin\Newtonsoft.Json.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\obj\Debug\Web_Api.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\רחלי נוימן\פרויקט סיום\Web_Api\Web_Api\obj\Debug\Web_Api.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\csc.exe
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\csc.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\csc.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\csi.exe
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\csi.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\System.AppContext.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\System.Collections.Immutable.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\System.Reflection.Metadata.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\vbc.exe
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\vbc.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\vbc.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Web_Api.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Web_Api.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Web_Api.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\BL.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\DAL.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\EntityFramework.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\EntityFramework.SqlServer.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Microsoft.Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Microsoft.Web.Infrastructure.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Newtonsoft.Json.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\System.Net.Http.Formatting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\System.Web.Cors.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\System.Web.Http.Cors.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\System.Web.Http.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\System.Web.Http.Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\System.Web.Http.WebHost.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Unity.Abstractions.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Unity.AspNet.WebApi.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Unity.Container.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\WebActivatorEx.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\DAL.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\DAL.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\BL.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\BL.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\EntityFramework.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\EntityFramework.SqlServer.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Microsoft.Owin.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\System.Net.Http.Formatting.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\System.Web.Http.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\System.Web.Http.Cors.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\System.Web.Http.Owin.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\System.Web.Http.WebHost.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Unity.Abstractions.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Unity.AspNet.WebApi.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Unity.Container.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\bin\Newtonsoft.Json.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\obj\Debug\Web_Api.csprojResolveAssemblyReference.cache
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\obj\Debug\Web_Api.csproj.CoreCompileInputs.cache
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\obj\Debug\Web_Api.csproj.CopyComplete
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\obj\Debug\Web_Api.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\טובי קוליץ\טובי קוליץ ורחלי פנחסי\MyKav\Web_Api\Web_Api\obj\Debug\Web_Api.pdb
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\csc.exe
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\csc.exe.config
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\csc.rsp
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\csi.exe
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\csi.rsp
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\System.AppContext.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\System.Collections.Immutable.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\vbc.exe
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\vbc.exe.config
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\vbc.rsp
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe.config
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Web_Api.dll.config
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Web_Api.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Web_Api.pdb
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\BL.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\DAL.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\EntityFramework.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\EntityFramework.SqlServer.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Microsoft.Owin.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Microsoft.Web.Infrastructure.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Newtonsoft.Json.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Owin.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\System.Net.Http.Formatting.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\System.Web.Cors.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\System.Web.Http.Cors.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\System.Web.Http.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\System.Web.Http.Owin.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\System.Web.Http.WebHost.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Unity.Abstractions.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Unity.AspNet.WebApi.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Unity.Container.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\WebActivatorEx.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\DAL.pdb
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\DAL.dll.config
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\BL.pdb
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\BL.dll.config
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\EntityFramework.xml
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\EntityFramework.SqlServer.xml
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Microsoft.Owin.xml
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\System.Net.Http.Formatting.xml
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\System.Web.Http.xml
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\System.Web.Http.Cors.xml
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\System.Web.Http.Owin.xml
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\System.Web.Http.WebHost.xml
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Unity.Abstractions.pdb
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Unity.AspNet.WebApi.pdb
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Unity.Container.pdb
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\bin\Newtonsoft.Json.xml
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\obj\Debug\Web_Api.csprojResolveAssemblyReference.cache
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\obj\Debug\Web_Api.csproj.CoreCompileInputs.cache
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\obj\Debug\Web_Api.dll
+D:\מסמכים\פרויקט סיום תכנותתתתת\פרויקט\Web_Api\Web_Api\obj\Debug\Web_Api.pdb

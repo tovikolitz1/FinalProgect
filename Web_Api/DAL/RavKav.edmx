@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="CardTbl">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" Nullable="false" />
+          <Property Name="describe" Type="nchar" MaxLength="30" />
+          <Property Name="freeMonthly" Type="float" />
+          <Property Name="freeWeekly" Type="float" />
+          <Property Name="freeDaily" Type="float" />
+          <Property Name="single" Type="float" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ProfilsTbl">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="name" Type="nchar" MaxLength="10" />
+          <Property Name="discountPercentage" Type="nchar" MaxLength="10" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="principal_id" Type="int" Nullable="false" />
+          <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="version" Type="int" />
+          <Property Name="definition" Type="varbinary(max)" />
+        </EntityType>
+        <EntityType Name="TransitTbl">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="number" Type="int" Nullable="false" />
+          <Property Name="cardId" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TravelsTbl">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="dateAndTime" Type="datetime" Nullable="false" />
+          <Property Name="userId" Type="int" Nullable="false" />
+          <Property Name="TransitId" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="UserTbl">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="isManager" Type="bit" Nullable="false" />
+          <Property Name="ravkav" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="password" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="firstName" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="lastName" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="profileId" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_TransitTbl_CardTbl">
+          <End Role="CardTbl" Type="Self.CardTbl" Multiplicity="1" />
+          <End Role="TransitTbl" Type="Self.TransitTbl" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CardTbl">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="TransitTbl">
+              <PropertyRef Name="cardId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TravelsTbl_TransitTbl">
+          <End Role="TransitTbl" Type="Self.TransitTbl" Multiplicity="1" />
+          <End Role="TravelsTbl" Type="Self.TravelsTbl" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TransitTbl">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="TravelsTbl">
+              <PropertyRef Name="TransitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TravelsTbl_UserTbl">
+          <End Role="UserTbl" Type="Self.UserTbl" Multiplicity="1" />
+          <End Role="TravelsTbl" Type="Self.TravelsTbl" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="UserTbl">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="TravelsTbl">
+              <PropertyRef Name="userId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UserTbl_ProfilsTbl">
+          <End Role="ProfilsTbl" Type="Self.ProfilsTbl" Multiplicity="1" />
+          <End Role="UserTbl" Type="Self.UserTbl" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ProfilsTbl">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="UserTbl">
+              <PropertyRef Name="profileId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="ModelStoreContainer">
+          <EntitySet Name="CardTbl" EntityType="Self.CardTbl" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ProfilsTbl" EntityType="Self.ProfilsTbl" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="TransitTbl" EntityType="Self.TransitTbl" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="TravelsTbl" EntityType="Self.TravelsTbl" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="UserTbl" EntityType="Self.UserTbl" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_TransitTbl_CardTbl" Association="Self.FK_TransitTbl_CardTbl">
+            <End Role="CardTbl" EntitySet="CardTbl" />
+            <End Role="TransitTbl" EntitySet="TransitTbl" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TravelsTbl_TransitTbl" Association="Self.FK_TravelsTbl_TransitTbl">
+            <End Role="TransitTbl" EntitySet="TransitTbl" />
+            <End Role="TravelsTbl" EntitySet="TravelsTbl" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TravelsTbl_UserTbl" Association="Self.FK_TravelsTbl_UserTbl">
+            <End Role="UserTbl" EntitySet="UserTbl" />
+            <End Role="TravelsTbl" EntitySet="TravelsTbl" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UserTbl_ProfilsTbl" Association="Self.FK_UserTbl_ProfilsTbl">
+            <End Role="ProfilsTbl" EntitySet="ProfilsTbl" />
+            <End Role="UserTbl" EntitySet="UserTbl" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="CardTbl">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" />
+          <Property Name="describe" Type="String" MaxLength="30" FixedLength="true" Unicode="true" />
+          <Property Name="freeMonthly" Type="Double" />
+          <Property Name="freeWeekly" Type="Double" />
+          <Property Name="freeDaily" Type="Double" />
+          <Property Name="single" Type="Double" Nullable="false" />
+          <NavigationProperty Name="TransitTbls" Relationship="Self.FK_TransitTbl_CardTbl" FromRole="CardTbl" ToRole="TransitTbl" />
+        </EntityType>
+        <EntityType Name="ProfilsTbl">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="discountPercentage" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <NavigationProperty Name="UserTbls" Relationship="Self.FK_UserTbl_ProfilsTbl" FromRole="ProfilsTbl" ToRole="UserTbl" />
+        </EntityType>
+        <EntityType Name="sysdiagram">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="principal_id" Type="Int32" Nullable="false" />
+          <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="Int32" />
+          <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="TransitTbl">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="number" Type="Int32" Nullable="false" />
+          <Property Name="cardId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="CardTbl" Relationship="Self.FK_TransitTbl_CardTbl" FromRole="TransitTbl" ToRole="CardTbl" />
+          <NavigationProperty Name="TravelsTbls" Relationship="Self.FK_TravelsTbl_TransitTbl" FromRole="TransitTbl" ToRole="TravelsTbl" />
+        </EntityType>
+        <EntityType Name="TravelsTbl">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="dateAndTime" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="userId" Type="Int32" Nullable="false" />
+          <Property Name="TransitId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="TransitTbl" Relationship="Self.FK_TravelsTbl_TransitTbl" FromRole="TravelsTbl" ToRole="TransitTbl" />
+          <NavigationProperty Name="UserTbl" Relationship="Self.FK_TravelsTbl_UserTbl" FromRole="TravelsTbl" ToRole="UserTbl" />
+        </EntityType>
+        <EntityType Name="UserTbl">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="isManager" Type="Boolean" Nullable="false" />
+          <Property Name="ravkav" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="firstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="lastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="profileId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="ProfilsTbl" Relationship="Self.FK_UserTbl_ProfilsTbl" FromRole="UserTbl" ToRole="ProfilsTbl" />
+          <NavigationProperty Name="TravelsTbls" Relationship="Self.FK_TravelsTbl_UserTbl" FromRole="UserTbl" ToRole="TravelsTbl" />
+        </EntityType>
+        <Association Name="FK_TransitTbl_CardTbl">
+          <End Role="CardTbl" Type="Self.CardTbl" Multiplicity="1" />
+          <End Role="TransitTbl" Type="Self.TransitTbl" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CardTbl">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="TransitTbl">
+              <PropertyRef Name="cardId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UserTbl_ProfilsTbl">
+          <End Role="ProfilsTbl" Type="Self.ProfilsTbl" Multiplicity="1" />
+          <End Role="UserTbl" Type="Self.UserTbl" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ProfilsTbl">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="UserTbl">
+              <PropertyRef Name="profileId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TravelsTbl_TransitTbl">
+          <End Role="TransitTbl" Type="Self.TransitTbl" Multiplicity="1" />
+          <End Role="TravelsTbl" Type="Self.TravelsTbl" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TransitTbl">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="TravelsTbl">
+              <PropertyRef Name="TransitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TravelsTbl_UserTbl">
+          <End Role="UserTbl" Type="Self.UserTbl" Multiplicity="1" />
+          <End Role="TravelsTbl" Type="Self.TravelsTbl" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="UserTbl">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="TravelsTbl">
+              <PropertyRef Name="userId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="CardTbls" EntityType="Self.CardTbl" />
+          <EntitySet Name="ProfilsTbls" EntityType="Self.ProfilsTbl" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+          <EntitySet Name="TransitTbls" EntityType="Self.TransitTbl" />
+          <EntitySet Name="TravelsTbls" EntityType="Self.TravelsTbl" />
+          <EntitySet Name="UserTbls" EntityType="Self.UserTbl" />
+          <AssociationSet Name="FK_TransitTbl_CardTbl" Association="Self.FK_TransitTbl_CardTbl">
+            <End Role="CardTbl" EntitySet="CardTbls" />
+            <End Role="TransitTbl" EntitySet="TransitTbls" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UserTbl_ProfilsTbl" Association="Self.FK_UserTbl_ProfilsTbl">
+            <End Role="ProfilsTbl" EntitySet="ProfilsTbls" />
+            <End Role="UserTbl" EntitySet="UserTbls" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TravelsTbl_TransitTbl" Association="Self.FK_TravelsTbl_TransitTbl">
+            <End Role="TransitTbl" EntitySet="TransitTbls" />
+            <End Role="TravelsTbl" EntitySet="TravelsTbls" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TravelsTbl_UserTbl" Association="Self.FK_TravelsTbl_UserTbl">
+            <End Role="UserTbl" EntitySet="UserTbls" />
+            <End Role="TravelsTbl" EntitySet="TravelsTbls" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Entities">
+          <EntitySetMapping Name="CardTbls">
+            <EntityTypeMapping TypeName="Model.CardTbl">
+              <MappingFragment StoreEntitySet="CardTbl">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="describe" ColumnName="describe" />
+                <ScalarProperty Name="freeMonthly" ColumnName="freeMonthly" />
+                <ScalarProperty Name="freeWeekly" ColumnName="freeWeekly" />
+                <ScalarProperty Name="freeDaily" ColumnName="freeDaily" />
+                <ScalarProperty Name="single" ColumnName="single" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ProfilsTbls">
+            <EntityTypeMapping TypeName="Model.ProfilsTbl">
+              <MappingFragment StoreEntitySet="ProfilsTbl">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="discountPercentage" ColumnName="discountPercentage" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="sysdiagrams">
+            <EntityTypeMapping TypeName="Model.sysdiagram">
+              <MappingFragment StoreEntitySet="sysdiagrams">
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+                <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="definition" ColumnName="definition" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TransitTbls">
+            <EntityTypeMapping TypeName="Model.TransitTbl">
+              <MappingFragment StoreEntitySet="TransitTbl">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="number" ColumnName="number" />
+                <ScalarProperty Name="cardId" ColumnName="cardId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TravelsTbls">
+            <EntityTypeMapping TypeName="Model.TravelsTbl">
+              <MappingFragment StoreEntitySet="TravelsTbl">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="dateAndTime" ColumnName="dateAndTime" />
+                <ScalarProperty Name="userId" ColumnName="userId" />
+                <ScalarProperty Name="TransitId" ColumnName="TransitId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="UserTbls">
+            <EntityTypeMapping TypeName="Model.UserTbl">
+              <MappingFragment StoreEntitySet="UserTbl">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="isManager" ColumnName="isManager" />
+                <ScalarProperty Name="ravkav" ColumnName="ravkav" />
+                <ScalarProperty Name="password" ColumnName="password" />
+                <ScalarProperty Name="firstName" ColumnName="firstName" />
+                <ScalarProperty Name="lastName" ColumnName="lastName" />
+                <ScalarProperty Name="profileId" ColumnName="profileId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
